@@ -1,4 +1,3 @@
-// /src/cron.js
 const cron = require('node-cron');
 const moment = require('moment');
 const { Op } = require('sequelize');
