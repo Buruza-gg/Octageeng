@@ -1,4 +1,3 @@
-// /src/handlers/settings.js
 const bot = require('../bot');
 const { User, Group } = require('../models');
 const { getMainMenu } = require('../utils');
