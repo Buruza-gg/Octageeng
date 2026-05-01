@@ -1,4 +1,3 @@
-// /src/handlers/tasks.js
 const moment = require('moment');
 const bot = require('../bot');
 const { User, Task, Subject, TaskCompletion, Group } = require('../models');
